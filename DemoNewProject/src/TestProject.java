@@ -17,6 +17,7 @@ public class TestProject {
 						}
 						for(i=0;i<a.length;i++){
 				System.out.println(sum[i]);
+				System.out.println("abcd");
 						}
 			}
 			
